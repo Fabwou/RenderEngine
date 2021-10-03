@@ -1,0 +1,22 @@
+﻿  RenderEngine.cpp
+C:\Users\crach\Desktop\Work\Perso\Visual\RenderEngine\RenderEngine\ConstantBuffers.h(56,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\crach\Desktop\Work\Perso\Visual\RenderEngine\RenderEngine\RenderEngine.cpp(68,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\crach\Desktop\Work\Perso\Visual\RenderEngine\RenderEngine\RenderEngine.cpp(68,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\crach\Desktop\Work\Perso\Visual\RenderEngine\RenderEngine\RenderEngine.cpp(396,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\crach\Desktop\Work\Perso\Visual\RenderEngine\RenderEngine\RenderEngine.cpp(397,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\crach\Desktop\Work\Perso\Visual\RenderEngine\RenderEngine\RHI\RHI.h(40,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\crach\Desktop\Work\Perso\Visual\RenderEngine\RenderEngine\RenderEngine.cpp(458): message : see reference to function template instantiation 'void Rhi::UpdateConstantBuffer<ConstantBufferPerObject>(ConstantBuffer *,T *,int)' being compiled
+          with
+          [
+              T=ConstantBufferPerObject
+          ]
+  RenderEngine.vcxproj -> C:\Users\crach\Desktop\Work\Perso\Visual\RenderEngine\x64\Debug\RenderEngine.exe
+  C:\Users\crach\Desktop\Work\Perso\Visual\RenderEngine\RenderEngine\\Resources\Shaders\Compiled\BasicPixelShader.cso
+  C:\Users\crach\Desktop\Work\Perso\Visual\RenderEngine\RenderEngine\\Resources\Shaders\Compiled\BasicVertexShader.cso
+  C:\Users\crach\Desktop\Work\Perso\Visual\RenderEngine\RenderEngine\\Resources\Shaders\Compiled\GeometryShader.cso
+  C:\Users\crach\Desktop\Work\Perso\Visual\RenderEngine\RenderEngine\\Resources\Shaders\Compiled\MultiplePointLightPixelShader.cso
+  C:\Users\crach\Desktop\Work\Perso\Visual\RenderEngine\RenderEngine\\Resources\Shaders\Compiled\MultiplePointLightWithoutMapPixelShader.cso
+  C:\Users\crach\Desktop\Work\Perso\Visual\RenderEngine\RenderEngine\\Resources\Shaders\Compiled\PixelShader.cso
+  C:\Users\crach\Desktop\Work\Perso\Visual\RenderEngine\RenderEngine\\Resources\Shaders\Compiled\PointLightPixelShader.cso
+  C:\Users\crach\Desktop\Work\Perso\Visual\RenderEngine\RenderEngine\\Resources\Shaders\Compiled\VertexShader.cso
+  8 fichier(s) copié(s)

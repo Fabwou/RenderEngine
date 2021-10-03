@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\crach\Desktop\Work\Perso\Visual\RenderEngine\x64\Debug\RenderEngine.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\crach\Desktop\Work\Perso\Visual\RenderEngine\RenderEngine\Resources\Shaders\Compiled\GeometryShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\crach\Desktop\Work\Perso\Visual\RenderEngine\RenderEngine\Resources\Shaders\Compiled\BasicPixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\crach\Desktop\Work\Perso\Visual\RenderEngine\RenderEngine\Resources\Shaders\Compiled\MultiplePointLightPixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\crach\Desktop\Work\Perso\Visual\RenderEngine\RenderEngine\Resources\Shaders\Compiled\MultiplePointLightWithoutMapPixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\crach\Desktop\Work\Perso\Visual\RenderEngine\RenderEngine\Resources\Shaders\Compiled\PointLightPixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\crach\Desktop\Work\Perso\Visual\RenderEngine\RenderEngine\Resources\Shaders\Compiled\PixelShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\crach\Desktop\Work\Perso\Visual\RenderEngine\RenderEngine\Resources\Shaders\Compiled\BasicVertexShader.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\crach\Desktop\Work\Perso\Visual\RenderEngine\RenderEngine\Resources\Shaders\Compiled\VertexShader.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
